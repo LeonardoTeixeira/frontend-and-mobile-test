@@ -5,7 +5,7 @@ REST service that returns a list of People.
 
 This service can be reached using the following URL:
 
-http://localhost:8090/rest/people
+    http://localhost:8090/rest/people
 
 It will return a JSON object. To run the service, you will need to build the application.
 For that, you will need to install Java JDK and Maven.
@@ -17,7 +17,7 @@ After you sucessfully installed everything, just open a command and run:
     
 To run, either call Java or run Maven
 
-    java -jar target/people.war
+    java -jar target/people-rest.war
     
 or
 
