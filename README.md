@@ -25,7 +25,7 @@ or
     
 ## Proposed Exercise
 
-Create an app to present the resulting data from the REST service.
+Create an app to present the resulting data from the REST service. The way you present is up to you.
 
 Premises:
 * The application should use AngularJS. 
