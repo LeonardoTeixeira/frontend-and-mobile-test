@@ -31,7 +31,7 @@ Premises:
 * The application should use AngularJS. 
 * The application must be responsible.
 * The application must be presented in three resolutions: Full HD, HD and Wide VGA.
-* Do not use any layout frameworks like Bootstrap, Foundation, etc. Feel free frameworks 
+* Do not use any layout frameworks like Bootstrap, Foundation, etc. Feel free to use other frameworks 
 for UX 
 * You are free to change the application included in every aspect.
 
