@@ -1,0 +1,22 @@
+{
+  "name": "front-end-angularjs-automate-tasks",
+  "version": "1.0.0",
+  "description": "Proposed exercise for candidates evaluation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cinqtechnologies/front-end-angularjs-automate-tasks.git"
+  },
+  "keywords": [
+    "angularjs"
+  ],
+  "author": "CINQ Technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cinqtechnologies/front-end-angularjs-automate-tasks/issues"
+  },
+  "homepage": "https://github.com/cinqtechnologies/front-end-angularjs-automate-tasks"
+}
