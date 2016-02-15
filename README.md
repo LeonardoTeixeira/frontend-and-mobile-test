@@ -28,11 +28,10 @@ or
 Create an app to present the resulting data from the REST service. The way you present is up to you.
 
 Premises:
-* The application should use AngularJS. 
-* The application must be responsible.
-* The application must be presented in three resolutions: Full HD, HD and Wide VGA.
-* Do not use any layout frameworks like Bootstrap, Foundation, etc. Feel free to use other frameworks 
-for UX 
+* The application should use _AngularJS_. 
+* The application must be _Responsive_.
+* The application must be presented in three resolutions: _Full HD_, _HD_ and _Wide VGA_.
+* Do _not_ use any _layout frameworks_ like Bootstrap, Foundation, etc. Implement your own solution. Feel free to use other frameworks for UX 
 * You are free to change the application included in every aspect.
 
 ## Challenges
