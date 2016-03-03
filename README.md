@@ -28,16 +28,16 @@ or
 Create an app to present the resulting data from the REST service. The way you present is up to you, as long you follow the premises.
 
 Premises:
-* DO NOT USE *TABLE*
-* The application should use _AngularJS_. 
+* DO NOT USE *\<table\>*
+* The application must be implemented using _AngularJS_. 
 * The application must be _Responsive_.
-* The application must be presented in three resolutions: _Full HD_, _HD_ and _Wide VGA_.
+* The application must be presented in only three resolutions: _Full HD_, _HD_ and _Wide VGA_. 
 * Do _not_ use any _layout frameworks_ like Bootstrap, Foundation, etc. Implement your own solution. Feel free to use other frameworks for UX 
 * You are free to change the application included in every aspect.
 
 ## Challenges
 
-1. Minify using the Automation Tool of your choice
+1. Minify using the Automation Tool of your choice, except MAVEN plugins.
 2. Replace the Java Application by one written using Node.js _or_ ...
 3. ...automate test using an end-to-end test framework for AngularJS. 
 
