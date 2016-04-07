@@ -25,19 +25,18 @@ or
     
 ## Proposed Exercise
 
-Create a mobile app based on either cordova, ionic, phonegap or native to present the resulting data from the REST service. The way you present it is up to you, as long you follow the premises.
+Create a mobile app based on either Ionic, Phonegap, Xamarin or pure Apache Cordova, or Native to present the resulting data from the REST service. The way you present it is up to you, as long you follow the premises.
 
 Premises:
 * The app must work at least on the Android platform.
-* The application must be implemented using AngularJS. 
-* The application must compile without using any Java/Android IDE. You can use whatever automation tool like Gulp, Grunt, Maven, Gradle, etc.
+* The application must compile without using any IDE (using command-line interface). You can use whatever automation tool like Gulp, Grunt, Maven, Gradle, Ant, scripts, etc.
 * You are free to change the application included in every aspect.
 
 ## Challenges
 
 1. Create behavior for including and removing people. (You can use any In-memory datasource)
 2. Replace the Java Application by a Node.js one or ...
-3. ...automate test using an end-to-end test framework for AngularJS. 
+3. ...automate tests using any end-to-end test framework on the Market. 
 
 
 ## Measuring results
